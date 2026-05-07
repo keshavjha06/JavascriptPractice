@@ -104,3 +104,6 @@ switch (browser) {
     default:
         console.log("plz pass the right browser...." + browser);
 }
+
+// multi env: dev, staging, prod
+// multi user: admin, editor, viewer , customer , seller, gueset
