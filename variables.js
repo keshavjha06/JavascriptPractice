@@ -44,9 +44,9 @@ if (c > 3) {
     console.log(message); // Hello Bob
 }
 //  console.log(message);  ReferenceError: message is not defined
- console.log(name); // Alice
+console.log(name); // Alice
 
- let length = 4;
+let length = 4;
 //  let length = 5;  SyntaxError: Identifier 'length' has already been declared
 length = 5; // re-assignment allowed
 console.log(length); // 5
