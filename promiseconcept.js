@@ -1,9 +1,9 @@
-const randomNumberPromise = new Promise((reslove, reject) => {
+const randomNumberPromise = new Promise((resolve, reject) => {
     //async operation
     setTimeout(() => {
         const randomValue = Math.random();
         if (randomValue > 0.5) {
-            reslove(randomValue)
+            resolve(randomValue)
         } else {
             reject(new Error("value is too small!!"))
         }
