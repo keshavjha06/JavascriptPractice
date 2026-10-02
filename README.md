@@ -1,4 +1,4 @@
-# JavaScript Practice
+# JavaScript Concepts
 
 A collection of small, self-contained JavaScript examples covering core language fundamentals, object-oriented programming, asynchronous patterns, and common coding exercises. Each file focuses on one concept and is heavily commented with expected output.
 
